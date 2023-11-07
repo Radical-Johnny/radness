@@ -1,7 +1,7 @@
 @export var AmmarsMom: CharacterBody3D
 
 func _ready():
-  funck_someone("AmmarsMom")
+  fuck_someone("AmmarsMom")
 
 func fuck_someone(LocalVariable: String):
   LocalVariable.fuck()
