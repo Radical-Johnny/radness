@@ -1,9 +1,9 @@
 @export var AmmarsMom: CharacterBody3D
 
 func _ready():
-  fuck_someone("AmmarsMom")
+  do_someone("AmmarsMom")
 
-func fuck_someone(LocalVariable: String):
-  LocalVariable.fuck()
+func do_someone(LocalVariable: String):
+  LocalVariable.do()
 
 # shoutout to big amar for the code
